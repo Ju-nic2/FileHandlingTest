@@ -1,8 +1,9 @@
-# FileHandlingTest
-File Handling Test(with C Library and System call function) In Ubuntu 20.04
 ## Precondition
 File data and Users Arguments are permitted only numbers(int), Alpabets.
 In arguemnt example <originFile> -> must exist in Your storage
+### OS
+Ubuntu 20.04
+Compiler gcc 9.3.0
   
 ## copy.c
 make new coped file. read form originfile and write data copied file 
