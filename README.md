@@ -8,12 +8,12 @@ In arguemnt example <originFile> -> must exist in Your storage
 make new coped file. read form originfile and write data copied file 
 reading units are 10 bytes.
 
-ex) a.out <originFile> <copidedFile>
+ex) a.out originFile copidedFile
   
 ## read.c
 In origin File, including Offset data , read offset ~ offset + bytes and print in Terminal
 if no more data, read up to end of file
 
-ex) a.out <originFile> <offset> <bytes>
+ex) a.out originFile offset bytes
   
 ## merge.c
